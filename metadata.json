@@ -1,0 +1,24 @@
+{
+    "description": "first NFT creation in BUNN bootcamp",
+    "external_url": "https://twitter.com/xSomtochukwu",
+    "image":"https://ipfs.filebase.io/ipfs/QmQ3QpLpQi1y1bfs55KgPuXfqRNWGQmJa4kWqTZ3aMuRcm",
+    "name": "BcUNN",
+    "attributes": [
+        {
+            "trait_type": "wrap",
+            "value": "Reliance"
+        },
+        {
+            "trait_type": "Value",
+            "value": "Teck"
+        },
+        {
+            "trait_type": "Space",
+            "value": "Tech"
+        },
+        {
+            "trait_type": "",
+            "value": "Piety"
+        }
+        ]
+    }
